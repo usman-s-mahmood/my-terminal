@@ -1,0 +1,11 @@
+# temps
+misc/
+# vs code temp
+.vscode/
+# virtual envs
+venv/
+virt/
+node_modules/
+# vim temps
+*.*~
+*.SWP
